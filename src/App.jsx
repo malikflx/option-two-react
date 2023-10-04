@@ -10,6 +10,7 @@ function App() {
     <>
       <div>
         <h2>ADC Careers</h2>
+        <div id="grnhse_app"></div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
